@@ -1,0 +1,2 @@
+Run the script passing as command line argument the "input.txt" file with "./script -f format", and as a result an "output.txt" file will be generated, 
+then run "test.py" script (without any command line argument) and an result file containing the testing result will be generated 
